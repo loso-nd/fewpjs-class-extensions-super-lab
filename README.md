@@ -9,7 +9,7 @@
 In this lab we're going to practice the two most common usages of the `super`
 keyword.
 
-## Instructions
+## Instructions 
 
 1.  Define a `Tree` class that will act as our parent.
 
